@@ -6,10 +6,10 @@ NGL-RIP is a tool that can be used to send lots of messages quickly to your frie
 Open terminal and paste the following commands :
 
 ```
-git clone https://github.com/dimxz/NGL-RIP
+git clone https://github.com/dimxz/NGL-SPAMMER
 ```
 ```
-cd "NGL-RIP"
+cd "NGL-SPAMMER"
 ```
 ```
 pip install -r requirements.txt
